@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Movefile" type="PLAIN_TEXT" />
       <mapping pattern=".gigignore" type="PLAIN_TEXT" />
+      <mapping pattern="Movefile" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
